@@ -17,7 +17,7 @@ export const SITE = {
 
   // null → render a "Coming to the App Store" placeholder. Set to the
   // apps.apple.com URL once the app is approved to enable the real badge/link.
-  appStoreUrl: null as string | null,
+  appStoreUrl: "https://apps.apple.com/app/recall-time/id6781017660" as string | null,
 
   bundleId: "ai.meetjoshua.recalltimeapp",
   effectiveDate: "June 16, 2026",
